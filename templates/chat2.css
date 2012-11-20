@@ -1,0 +1,12 @@
+div.contentwrap {
+	float: left;
+}
+
+div.onlinewrap {
+	float: right;
+	width: 200px;
+}
+
+/*div.inputwrap {
+	float: bottom;
+}*/
