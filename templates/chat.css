@@ -25,7 +25,11 @@ div.input {
 	position: fixed;
 	bottom: 0;
 	left: 0;
-	right: 230px;
+	right: 0;
 	height: 80px;
 	vertical-align: middle;
+}
+
+table {
+	border: none;
 }
